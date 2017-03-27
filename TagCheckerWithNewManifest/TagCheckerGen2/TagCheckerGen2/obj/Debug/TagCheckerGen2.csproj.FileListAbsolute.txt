@@ -1,0 +1,17 @@
+C:\Users\trevorh\Documents\Visual Studio 2012\Projects\TagCheckerGen2\TagCheckerGen2\bin\Debug\TagCheckerGen2.exe.config
+C:\Users\Trevor\Documents\Visual Studio 2013\Projects\TagCheckerGen2\TagCheckerGen2\bin\Debug\TagCheckerGen2.exe.config
+C:\Users\Trevor\Documents\Visual Studio 2013\Projects\TagCheckerGen2\TagCheckerGen2\obj\Debug\TagCheckerGen2.csprojResolveAssemblyReference.cache
+C:\Users\Trevor\Documents\Visual Studio 2013\Projects\TagCheckerGen2\TagCheckerGen2\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Trevor\Documents\Visual Studio 2013\Projects\TagCheckerGen2\TagCheckerGen2\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Trevor\Documents\Visual Studio 2013\Projects\TagCheckerGen2\TagCheckerGen2\obj\Debug\TagCheckerGen2.csproj.GenerateResource.Cache
+C:\Users\Trevor\Documents\Visual Studio 2013\Projects\TagCheckerGen2\TagCheckerGen2\bin\Debug\TagCheckerGen2.exe
+C:\Users\Trevor\Documents\Visual Studio 2013\Projects\TagCheckerGen2\TagCheckerGen2\bin\Debug\TagCheckerGen2.pdb
+C:\Users\Trevor\Documents\Visual Studio 2013\Projects\TagCheckerGen2\TagCheckerGen2\obj\Debug\TagCheckerGen2.exe
+C:\Users\Trevor\Documents\Visual Studio 2013\Projects\TagCheckerGen2\TagCheckerGen2\obj\Debug\TagCheckerGen2.pdb
+C:\Users\Trevor\Documents\Visual Studio 2013\Projects\TagCheckerGen2\TagCheckerGen2\bin\Debug\TagCheckerGen2.exe.manifest
+C:\Users\Trevor\Documents\Visual Studio 2013\Projects\TagCheckerGen2\TagCheckerGen2\bin\Debug\TagCheckerGen2.application
+C:\Users\Trevor\Documents\Visual Studio 2013\Projects\TagCheckerGen2\TagCheckerGen2\obj\Debug\TagCheckerGen2.exe.manifest
+C:\Users\Trevor\Documents\Visual Studio 2013\Projects\TagCheckerGen2\TagCheckerGen2\obj\Debug\TagCheckerGen2.application
+C:\Users\Trevor\Downloads\TagCheckerWithNewManifest\TagCheckerGen2\TagCheckerGen2\bin\Debug\TagCheckerGen2.exe.config
+C:\Users\Trevor\Downloads\TagCheckerWithNewManifest\TagCheckerGen2\TagCheckerGen2\obj\Debug\TagCheckerGen2.exe
+C:\Users\Trevor\Downloads\TagCheckerWithNewManifest\TagCheckerGen2\TagCheckerGen2\obj\Debug\TagCheckerGen2.pdb
